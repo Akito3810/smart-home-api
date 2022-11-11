@@ -1,0 +1,5 @@
+id,homeId,name,status
+1,1,PC,1
+2,1,FrontDoor,2
+3,2,Light,1
+4,3,SwitchRobot,2
