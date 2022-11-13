@@ -1,26 +1,26 @@
 [
   {
-    "id": "1",
-    "homeId": "1",
+    "home_id": "1",
     "name": "PC",
-    "status": "1"
+    "status": "1",
+    "description": "リビングに置いてあるメインPC"
   },
   {
-    "id": "2",
-    "homeId": "1",
+    "home_id": "1",
     "name": "FrontDoor",
-    "status": "2"
+    "status": "2",
+    "description": "玄関のドア"
   },
   {
-    "id": "3",
-    "homeId": "2",
+    "home_id": "2",
     "name": "Light",
-    "status": "1"
+    "status": "1",
+    "description": "リビングのライト"
   },
   {
-    "id": "4",
-    "homeId": "3",
+    "home_id": "3",
     "name": "SwitchRobot",
-    "status": "2"
+    "status": "2",
+    "description": "コーヒーメーカーに付けているロボット"
   }
 ]

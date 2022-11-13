@@ -1,5 +1,8 @@
 const { setupServer } = require('./server')
-const app = setupServer()
+const config = require('../knexfile')
+const knex = require('knex')(config)
+
+const app = setupServer(knex)
 
 const PORT = process.env.PORT || 3000
 

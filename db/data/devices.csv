@@ -1,5 +1,5 @@
-id,homeId,name,status
-1,1,PC,1
-2,1,FrontDoor,2
-3,2,Light,1
-4,3,SwitchRobot,2
+id,home_id,name,status,description
+1,1,PC,1,リビングに置いてあるメインPC
+2,1,FrontDoor,2,玄関のドア
+3,2,Light,1,リビングのライト
+4,3,SwitchRobot,2,コーヒーメーカーに付けているロボット

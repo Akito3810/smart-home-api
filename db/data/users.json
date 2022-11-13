@@ -1,37 +1,32 @@
 [
   {
-    "id": "1",
     "name": "Takeshi Tada",
     "userName": "Tadachan",
     "email": "aaaaa@example.com",
-    "homeId": "1"
+    "home_id": "1"
   },
   {
-    "id": "2",
     "name": "Takuto Sumida",
     "userName": "SU",
     "email": "bbbbb@example.com",
-    "homeId": "1"
+    "home_id": "1"
   },
   {
-    "id": "3",
     "name": "Eri Yamamoto",
     "userName": "Yama",
     "email": "ccccc@example.com",
-    "homeId": "2"
+    "home_id": "2"
   },
   {
-    "id": "4",
     "name": "Leonardo Smith",
     "userName": "Smith",
     "email": "ddddd@example.com",
-    "homeId": "2"
+    "home_id": "2"
   },
   {
-    "id": "5",
     "name": "Atsuto Kusida",
     "userName": "ProfesserX",
     "email": "eeee@example.com",
-    "homeId": "3"
+    "home_id": "3"
   }
 ]
